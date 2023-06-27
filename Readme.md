@@ -1,8 +1,5 @@
-Simple Shopping Cart with PHP
+Shopping Cart Silikin
 ============================
-1. Import "mysql_import.sql" in your MySql PhpMyAdmin to create product table.
-2. Change settings in "config.php" for database.
-3. Navigate to index page of your shopping cart and enjoy.
+Master class sur les prograssives web applicatiobs à Silikin Village
 
-@License : http://opensource.org/licenses/MIT
-@Tutorial : http://www.sanwebe.com/2013/06/creating-simple-shopping-cart-with-php
+* http://opensource.org/licenses/MIT
