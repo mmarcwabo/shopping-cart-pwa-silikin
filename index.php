@@ -108,6 +108,8 @@ echo $products_item;
 }
 ?>    
 <!-- Products List End -->
+<input type="button" value="Installer Appli" id="install">
+<input type="button" value="Activer PWA" id="enable">
 </div>
 <script src="vendor/twbs/bootstrap/js/bootstrap.js"></script>
 </body>
